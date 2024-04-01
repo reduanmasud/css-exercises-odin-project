@@ -1,0 +1,18 @@
+.bg-color-light-red {
+    background-color: rgb(255, 167, 167);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.large {
+    font-size: 24px;
+}
+
+#id_one {
+    color: blue;
+    font-size: 32px;
+}
+
+#id_two {
+    background-color: greenyellow;
+    font-size: 28px;
+}
